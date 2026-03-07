@@ -9,4 +9,4 @@ restart_in_5_sec.cmd restarts your pc in 5 seconds.
 
 shutdown_in_5_sec.cmd shuts down your pc in 5 seconds.
 
-sysinfo.cmd shows your system information in a file named sys.txt
+sysinfo.cmd shows your system information in a file named sysinfo.txt
